@@ -1,2 +1,2 @@
 # Ej4_U3_POO
-No hice el inciso 2 
+Inciso 2 no realizado
